@@ -18,6 +18,10 @@ As you can see, there are 2 folders:
 
 https://github.com/lab0102/Starcraft-Brood-War-cursor-for-Windows/assets/169932746/93f9f434-f622-4880-b144-ed4d4154e2c4
 
+This is how to install cursors manually:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PCO3ElHjctg/0.jpg)](https://www.youtube.com/watch?v=PCO3ElHjctg)
+
 
 Tools used for conversion, editing in order of usage:
 - [ImageMagick](https://imagemagick.org/script/download.php#windows)
