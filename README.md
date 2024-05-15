@@ -11,7 +11,7 @@ As you can see, there are 2 folders:
   ![image](https://github.com/lab0102/Starcraft-Brood-War-cursor-for-Windows/assets/169932746/3b290ed1-47da-42df-9b31-32c3ac3c568c)
 
 
-**_Starcraft Brood War cursor pack_** for Windows standard was only the pure conversion, where for **_Starcraft Brood War cursor pack for Windows extra large_** I resized/altered them the cursors/animations to make them bigger/better suite the higher screen resolutions.
+**_Starcraft Brood War cursor pack_** for Windows standard was only the pure conversion, where for **_Starcraft Brood War cursor pack for Windows extra large_** I resized/altered the cursors/animations to make them bigger/better suite the higher screen resolutions.
 
 
 
