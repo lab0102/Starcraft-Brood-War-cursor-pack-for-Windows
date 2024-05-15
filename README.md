@@ -25,6 +25,6 @@ This is how to install cursors manually (Youtube):
 
 Tools used for conversion, editing in order of usage:
 - [ImageMagick](https://imagemagick.org/script/download.php#windows)
-- [win2xcur](https://github.com/quantum5/win2xcur)
+- [win2xcur (for this case x2wincur)](https://github.com/quantum5/win2xcur)
 - [RealWorld Cursor Editor 2023.1](http://www.rw-designer.com/cursor-maker)
 
